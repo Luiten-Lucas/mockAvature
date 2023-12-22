@@ -1,0 +1,244 @@
+{
+  "jobs": [
+  [
+    "Jr Java Developer",
+    24000,
+    "Argentina",
+    [
+      "Java",
+      "OOP"
+    ]
+  ],
+  [
+    "SSr Java Developer",
+    34000,
+    "Argentina",
+    [
+      "Java",
+      "OOP",
+      "Design Patterns"
+    ]
+  ],
+  [
+    "Sr Java Developer",
+    44000,
+    "Argentina",
+    [
+      "Java",
+      "OOP",
+      "Design Patterns"
+    ]
+  ],
+  [
+    "Jr PHP Developer",
+    24000,
+    "Spain",
+    [
+      "PHP",
+      "OOP"
+    ]
+  ],
+  [
+    "SSr PHP Developer",
+    34000,
+    "Spain",
+    [
+      "PHP",
+      "OOP",
+      "Design Patterns"
+    ]
+  ],
+  [
+    "Sr Developer",
+    44000,
+    "Argentina",
+    [
+      "PHP",
+      "OOP",
+      "Design Patterns"
+    ]
+  ],
+  [
+    "Functional Analyst",
+    38000,
+    "Argentina",
+    [
+      "UX"
+    ]
+  ],
+  [
+    "Jr Python Developer",
+    28000,
+    "USA",
+    [
+      "Python",
+      "OOP"
+    ]
+  ],
+  [
+    "React Developer",
+    49000,
+    "Argentina",
+    [
+      "React",
+      "TypeScript"
+    ]
+  ],
+  [
+    "Angular Developer",
+    49000,
+    "Argentina",
+    [
+      "Angular",
+      "TypeScript"
+    ]
+  ],
+  [
+    "Database Analyst",
+    34000,
+    "Spain",
+    [
+      "MySQL"
+    ]
+  ],
+  [
+    "Database Administrator",
+    44000,
+    "Argentina",
+    [
+      "MySQL",
+      "Percona"
+    ]
+  ],
+  [
+    "Linux Admin",
+    43000,
+    "USA",
+    [
+      "Linux",
+      "Docker"
+    ]
+  ],
+  [
+    "Windows server Admin",
+    44000,
+    "Argentina",
+    [
+      "Windows Server"
+    ]
+  ],
+  [
+    "Jr UX Designer",
+    25000,
+    "Spain",
+    [
+      "UX"
+    ]
+  ],
+  [
+    "Sr UX Designer",
+    40000,
+    "Argentina",
+    [
+      "UX"
+    ]
+  ],
+  [
+    "Go Developer",
+    50000,
+    "USA",
+    [
+      "Go"
+    ]
+  ],
+  [
+    "Jr C# Developer",
+    30000,
+    "Argentina",
+    [
+      "C#",
+      "OOP"
+    ]
+  ],
+  [
+    "SSr C# Developer",
+    46000,
+    "USA",
+    [
+      "C#",
+      "OOP",
+      "Design Patterns"
+    ]
+  ],
+  [
+    "Sr C# Developer",
+    50000,
+    "Spain",
+    [
+      "C#",
+      "OOP",
+      "Design Patterns"
+    ]
+  ],
+  [
+    "Sr C++ Developer",
+    50000,
+    "USA",
+    [
+      "C++",
+      "OOP",
+      "Design Patterns"
+    ]
+  ],
+  [
+    "Sr C Developer",
+    54000,
+    "USA",
+    [
+      "C",
+      "Design Patterns"
+    ]
+  ],
+  [
+    "Ruby Developer",
+    34000,
+    "Argentina",
+    [
+      "Ruby",
+      "OOP"
+    ]
+  ],
+  [
+    "Business Analyst",
+    30000,
+    "Spain",
+    [
+      "BI"
+    ]
+  ],
+  [
+    "CTO",
+    100000,
+    "Spain",
+    []
+  ],
+  [
+    "Network Administrator",
+    40000,
+    "USA",
+    [
+      "Networking",
+      "IT"
+    ]
+  ],
+  [
+    "Kotlin Developer",
+    50000,
+    "Spain",
+    [
+      "Kotlin",
+      "OOP"
+    ]
+  ]
+]
+}
